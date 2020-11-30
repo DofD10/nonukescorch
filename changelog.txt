@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.8.0
+  Info:
+    - Added a real thumbnail image
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+  Features:
+    - Added Atomic Artillery as an optional mod
+---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+  Features:
+    - First working Version with the base game nukes implemented only. Internal only no upload
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+  Info:
+	- Initial upload to mod portal. Not functioning
+    - Code change but again not yet working
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+  Info:
+    - Initial version of the mod. Not functioning

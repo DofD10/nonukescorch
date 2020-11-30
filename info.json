@@ -1,0 +1,9 @@
+{
+  "name": "nonukescorch",
+  "version": "0.8.0",
+  "title": "No Nuke Scorch",
+  "author": "DofD",
+  "factorio_version": "1.0",
+  "dependencies": ["base", "? AtomicArtillery"],
+  "description": "This mod removes the nuke scorches on the map and world"
+}
