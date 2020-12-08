@@ -1,2 +1,1 @@
-
-require ("nonuke")    				-- Lädt die nonuke.lua
+require("nonuke") -- Lädt die nonuke.lua
