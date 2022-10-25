@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.9.0
+  Info:
+    - Refactor effect removal code
+      - Does not overwrite existing projectiles anymore
+---------------------------------------------------------------------------------------------------
 Version: 0.8.0
   Info:
     - Added a real thumbnail image
